@@ -1,4 +1,4 @@
-# Contributing to @houser/js-utils
+# Contributing to houser-js-utils
 
 Thank you for your interest in contributing! We welcome all kinds of contributions, including bug reports, feature requests, documentation improvements, and code enhancements.
 

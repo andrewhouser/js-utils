@@ -1,4 +1,4 @@
-# @houser/js-utils
+# houser-js-utils
 
 A comprehensive collection of TypeScript utility functions for common development tasks.
 
@@ -9,9 +9,9 @@ A comprehensive collection of TypeScript utility functions for common developmen
 ## Installation
 
 ```bash
-npm install @houser/js-utils
+npm install houser-js-utils
 # or
-yarn add @houser/js-utils
+yarn add houser-js-utils
 ```
 
 ## Features
@@ -38,7 +38,7 @@ yarn add @houser/js-utils
 ## Usage
 
 ```typescript
-import { ArrayUtils, DateUtils, RandomUtils } from "@houser/js-utils";
+import { ArrayUtils, DateUtils, RandomUtils } from "houser-js-utils";
 
 // Use the utilities
 const uniqueArray = ArrayUtils.deduplicate([1, 2, 2, 3]);

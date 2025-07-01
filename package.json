@@ -1,5 +1,5 @@
 {
-  "name": "@houser/js-utils",
+  "name": "houser-js-utils",
   "version": "1.0.0",
   "description": "A comprehensive collection of TypeScript utility functions for common development tasks including array manipulation, string processing, date handling, random number generation, validation, and much more.",
   "type": "module",

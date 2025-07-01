@@ -1,6 +1,6 @@
 # Publishing Checklist
 
-This document outlines the steps to publish `@houser/js-utils` to NPM.
+This document outlines the steps to publish `houser-js-utils` to NPM.
 
 ## Prerequisites
 
@@ -86,7 +86,7 @@ It should NOT include:
 # Publish the package
 npm publish
 
-# For scoped packages (like @houser/js-utils), ensure it's public
+# For scoped packages (like houser-js-utils), ensure it's public
 npm publish --access public
 ```
 
@@ -94,12 +94,12 @@ npm publish --access public
 
 ```bash
 # Check if the package is available
-npm view @houser/js-utils
+npm view houser-js-utils
 
 # Install the published package in a test project
-npm install @houser/js-utils
+npm install houser-js-utils
 # or
-yarn add @houser/js-utils
+yarn add houser-js-utils
 ```
 
 ## Post-Publication
@@ -127,7 +127,7 @@ To your actual repository URL.
 
 ### 3. Monitor Package
 
-- Check the package page on [npmjs.com](https://www.npmjs.com/package/@houser/js-utils)
+- Check the package page on [npmjs.com](https://www.npmjs.com/package/houser-js-utils)
 - Monitor downloads and usage
 - Respond to issues and feedback
 
@@ -153,11 +153,11 @@ To your actual repository URL.
 npm pack --dry-run
 
 # View package information
-npm view @houser/js-utils
+npm view houser-js-utils
 
 # Unpublish a version (only within 24-72 hours)
-npm unpublish @houser/js-utils@1.0.0
+npm unpublish houser-js-utils@1.0.0
 
 # Deprecate a version
-npm deprecate @houser/js-utils@1.0.0 "This version has been deprecated"
+npm deprecate houser-js-utils@1.0.0 "This version has been deprecated"
 ```
