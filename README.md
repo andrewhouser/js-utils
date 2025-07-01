@@ -2,7 +2,7 @@
 
 A comprehensive collection of TypeScript utility functions for common development tasks.
 
-[![npm version](https://badge.fury.io/js/%40houser%2Fjs-utils.svg)](https://badge.fury.io/js/%40houser%2Fjs-utils)
+[![npm version](https://badge.fury.io/js/houser-js-utils.svg)](https://badge.fury.io/js/houser-js-utils)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](http://www.typescriptlang.org/)
 
