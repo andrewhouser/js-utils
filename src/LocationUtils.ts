@@ -6,7 +6,7 @@
  * managing bounding boxes, and handling coordinate transformations.
  * @example
  * ```typescript
- * import { LocationUtils } from 'js-utils';
+ * import { LocationUtils } from 'houser-js-utils';
  *
  * // Calculate distance between two points
  * const distance = LocationUtils.calculateDistance(40.7128, -74.0060, 51.5074, -0.1278);

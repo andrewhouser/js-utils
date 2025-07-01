@@ -3,7 +3,7 @@
  * @description A collection of utility functions for device detection and capability checking.
  * @example
  * ```typescript
- * import { DeviceUtils } from 'js-utils';
+ * import { DeviceUtils } from 'houser-js-utils';
  *
  * // Check if running on mobile device
  * const isMobile = DeviceUtils.isMobile();

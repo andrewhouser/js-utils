@@ -3,7 +3,7 @@
  * @description A collection of utility functions for security operations including hashing, encryption, and validation.
  * @example
  * ```typescript
- * import { SecurityUtils } from 'js-utils';
+ * import { SecurityUtils } from 'houser-js-utils';
  *
  * // Generate secure hash
  * const hash = await SecurityUtils.hashString('password123');

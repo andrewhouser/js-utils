@@ -3,7 +3,7 @@
  * @description A collection of utility functions for keyboard event handling, key detection, and input management.
  * @example
  * ```typescript
- * import { KeyboardUtils } from 'js-utils';
+ * import { KeyboardUtils } from 'houser-js-utils';
  *
  * // Check if key is pressed
  * const isEnter = KeyboardUtils.isEnterKey(event);

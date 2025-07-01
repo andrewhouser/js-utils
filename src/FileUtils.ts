@@ -3,7 +3,7 @@
  * @description A collection of utility functions for file operations, validation, and manipulation.
  * @example
  * ```typescript
- * import { FileUtils } from 'js-utils';
+ * import { FileUtils } from 'houser-js-utils';
  *
  * // Get file extension
  * const ext = FileUtils.getFileExtension('document.pdf'); // 'pdf'

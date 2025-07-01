@@ -5,7 +5,7 @@
  * @example
  * ```typescript
  * // Import specific utilities
- * import { ArrayUtils, StringUtils, DateUtils, RandomUtils } from 'js-utils';
+ * import { ArrayUtils, StringUtils, DateUtils, RandomUtils } from 'houser-js-utils';
  *
  * // Use array utilities
  * const unique = ArrayUtils.deduplicate([1, 2, 2, 3]); // [1, 2, 3]

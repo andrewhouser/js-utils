@@ -3,7 +3,7 @@
  * @description A collection of utility functions for AG Grid configuration, data manipulation, and grid management.
  * @example
  * ```typescript
- * import { AGGridUtils } from 'js-utils';
+ * import { AGGridUtils } from 'houser-js-utils';
  *
  * // Create column definitions
  * const columns = AGGridUtils.createColumnDefs(data);

@@ -7,7 +7,7 @@
  *
  * @example
  * ```typescript
- * import { DateUtils } from 'js-utils';
+ * import { DateUtils } from 'houser-js-utils';
  *
  * // Add 2 days to current date
  * const tomorrow = DateUtils.add({ days: 2 });

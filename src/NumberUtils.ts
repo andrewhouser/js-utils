@@ -3,7 +3,7 @@
  * @description A comprehensive collection of utility functions for number manipulation, formatting, and mathematical operations.
  * @example
  * ```typescript
- * import { NumberUtils } from 'js-utils';
+ * import { NumberUtils } from 'houser-js-utils';
  *
  * // Format currency
  * const price = NumberUtils.formatCurrency(1234.56); // "$1,234.56"

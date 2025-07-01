@@ -5,7 +5,7 @@
  * and accessing user locale preferences using the Intl API.
  * @example
  * ```typescript
- * import { InternationalizationUtils } from 'js-utils';
+ * import { InternationalizationUtils } from 'houser-js-utils';
  *
  * // Format currency
  * const price = InternationalizationUtils.formatCurrency(99.99, 'USD', 'en-US'); // "$99.99"

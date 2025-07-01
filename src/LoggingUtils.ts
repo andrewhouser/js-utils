@@ -6,7 +6,7 @@
  * measuring performance and memory usage, and formatting console output with grouping.
  * @example
  * ```typescript
- * import { LoggingUtils } from 'js-utils';
+ * import { LoggingUtils } from 'houser-js-utils';
  *
  * // Basic logging with different levels
  * LoggingUtils.debug("Processing started", { prefix: "DataService" });

@@ -4,7 +4,7 @@
  *
  * @example
  * ```typescript
- * import { MathUtils } from 'js-utils';
+ * import { MathUtils } from 'houser-js-utils';
  *
  * // Basic arithmetic
  * const sum = MathUtils.sum([1, 2, 3, 4, 5]); // 15

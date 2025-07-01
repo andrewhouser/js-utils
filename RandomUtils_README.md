@@ -26,7 +26,7 @@ The `RandomUtils` module provides a comprehensive collection of random number ge
 ## Basic Usage
 
 ```typescript
-import { RandomUtils } from "js-utils";
+import { RandomUtils } from "houser-js-utils";
 
 // Generate random numbers
 const dice = RandomUtils.int(1, 6); // Random integer 1-6
@@ -48,7 +48,7 @@ const shuffled = RandomUtils.shuffle(items); // Shuffled copy of array
 ## Seeded Random Generation
 
 ```typescript
-import { RandomUtils } from "js-utils";
+import { RandomUtils } from "houser-js-utils";
 
 // Create seeded generator for reproducible sequences
 const seeded = RandomUtils.Seeded.fromFixed(42);

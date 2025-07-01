@@ -6,7 +6,7 @@
  *
  * @example
  * ```typescript
- * import { AnimationUtils } from 'js-utils';
+ * import { AnimationUtils } from 'houser-js-utils';
  *
  * // Animate an element using CSS transitions
  * const element = document.querySelector('.box');

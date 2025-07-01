@@ -3,7 +3,7 @@
  * @description A comprehensive collection of utility functions for string manipulation, formatting, and validation.
  * @example
  * ```typescript
- * import { StringUtils } from 'js-utils';
+ * import { StringUtils } from 'houser-js-utils';
  *
  * // Convert camelCase to sentence
  * const sentence = StringUtils.camelCaseToSentence('myVariableName'); // "My Variable Name"

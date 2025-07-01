@@ -3,7 +3,7 @@
  * @description A collection of utility functions for DOM manipulation, element queries, and browser interactions.
  * @example
  * ```typescript
- * import { DOMUtils } from 'js-utils';
+ * import { DOMUtils } from 'houser-js-utils';
  *
  * // Query elements safely
  * const element = DOMUtils.querySelector('.my-class');

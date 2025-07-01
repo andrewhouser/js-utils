@@ -5,7 +5,7 @@
  *
  * @example
  * ```typescript
- * import { AccessibilityUtils } from 'js-utils';
+ * import { AccessibilityUtils } from 'houser-js-utils';
  *
  * // Set ARIA attributes
  * AccessibilityUtils.setAriaLabel(element, 'Close dialog');

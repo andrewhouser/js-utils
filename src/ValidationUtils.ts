@@ -3,7 +3,7 @@
  * @description A comprehensive collection of validation functions for common data types and formats.
  * @example
  * ```typescript
- * import { ValidationUtils } from 'js-utils';
+ * import { ValidationUtils } from 'houser-js-utils';
  *
  * // Validate email address
  * const isValid = ValidationUtils.isEmail('user@example.com'); // true

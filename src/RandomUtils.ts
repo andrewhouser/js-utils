@@ -5,7 +5,7 @@
  * number generation, various distribution methods, and utility functions for common randomness needs.
  * @example
  * ```typescript
- * import { RandomUtils } from 'js-utils';
+ * import { RandomUtils } from 'houser-js-utils';
  *
  * // Generate random integer in range
  * const dice = RandomUtils.int(1, 6);

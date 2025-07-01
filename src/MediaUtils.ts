@@ -3,7 +3,7 @@
  * @description Utility functions for handling audio, video, and image operations in the browser. Provides methods for checking media type support, accessing user media devices, recording and manipulating media streams, converting between formats, and extracting metadata from media files. Includes helpers for screenshots, resizing, compression, and file downloads.
  * @example
  * ```typescript
- * import { MediaUtils } from 'js-utils';
+ * import { MediaUtils } from 'houser-js-utils';
  *
  * // Check if a media type is supported
  * const isSupported = MediaUtils.isMediaTypeSupported('video/mp4');

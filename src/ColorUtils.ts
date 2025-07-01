@@ -5,7 +5,7 @@
  *
  * @example
  * ```typescript
- * import { ColorUtils } from 'js-utils';
+ * import { ColorUtils } from 'houser-js-utils';
  *
  * // Convert hex to RGB
  * const rgb = ColorUtils.hexToRgb('#FF0000');

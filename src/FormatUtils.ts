@@ -3,7 +3,7 @@
  * @description A comprehensive collection of utility functions for formatting data, text, numbers, and dates.
  * @example
  * ```typescript
- * import { FormatUtils } from 'js-utils';
+ * import { FormatUtils } from 'houser-js-utils';
  *
  * // Format phone number
  * const phone = FormatUtils.formatPhoneNumber('1234567890'); // "(123) 456-7890"

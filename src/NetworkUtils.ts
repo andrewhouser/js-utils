@@ -3,7 +3,7 @@
  * @description Utility functions for network operations in the browser, including fetch helpers with authentication, caching, progress, retry, and timeout; network status listeners; and network information utilities. Designed to simplify robust HTTP requests and network state management in web applications.
  * @example
  * ```typescript
- * import { NetworkUtils } from 'js-utils';
+ * import { NetworkUtils } from 'houser-js-utils';
  *
  * // Add a network status listener
  * const remove = NetworkUtils.addNetworkStatusListener((online) => console.log('Online:', online));

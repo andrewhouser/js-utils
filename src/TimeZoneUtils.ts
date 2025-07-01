@@ -3,7 +3,7 @@
  * @description Utility functions for working with time zones, including getting time zone details, managing time zone lists, and handling user time zone preferences. Provides comprehensive support for IANA time zones with proper formatting and validation.
  * @example
  * ```typescript
- * import { TimeZoneUtils } from 'js-utils';
+ * import { TimeZoneUtils } from 'houser-js-utils';
  *
  * // Get user's time zone
  * const userTimeZone = TimeZoneUtils.getUsersTimeZone();

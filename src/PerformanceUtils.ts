@@ -3,7 +3,7 @@
  * @description A collection of utility functions for performance monitoring, timing, and optimization.
  * @example
  * ```typescript
- * import { PerformanceUtils } from 'js-utils';
+ * import { PerformanceUtils } from 'houser-js-utils';
  *
  * // Measure execution time
  * const timer = PerformanceUtils.startTimer();

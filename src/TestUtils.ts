@@ -3,7 +3,7 @@
  * @description A collection of utility functions for testing, mocking, and test data generation.
  * @example
  * ```typescript
- * import { TestUtils } from 'js-utils';
+ * import { TestUtils } from 'houser-js-utils';
  *
  * // Generate test data
  * const testUser = TestUtils.createTestDataGenerator({ name: 'John', age: 30 });

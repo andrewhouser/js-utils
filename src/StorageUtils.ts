@@ -3,7 +3,7 @@
  * @description Utility functions for managing browser storage (localStorage, sessionStorage, cookies) with support for encryption, expiration, and type-safe operations. Includes methods for getting, setting, and removing values, as well as managing storage quotas and handling storage availability.
  * @example
  * ```typescript
- * import { StorageUtils } from 'js-utils';
+ * import { StorageUtils } from 'houser-js-utils';
  *
  * // Set and get values from localStorage
  * StorageUtils.setLocal('user', { id: 1, name: 'John' });

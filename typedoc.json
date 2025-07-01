@@ -1,6 +1,6 @@
 {
   "$schema": "https://typedoc.org/schema.json",
-  "name": "JS Utils Documentation",
+  "name": "houser-js-utils Documentation",
   "entryPoints": ["./src/index.ts"],
   "out": "./docs",
   "theme": "default",

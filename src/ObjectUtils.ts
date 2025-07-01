@@ -3,7 +3,7 @@
  * @description A comprehensive collection of utility functions for object manipulation, transformation, and analysis.
  * @example
  * ```typescript
- * import { ObjectUtils } from 'js-utils';
+ * import { ObjectUtils } from 'houser-js-utils';
  *
  * // Deep clone an object
  * const cloned = ObjectUtils.cloneObject(originalObject);

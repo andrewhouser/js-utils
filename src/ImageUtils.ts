@@ -4,7 +4,7 @@
  * Supports image format conversion, resizing, cropping, compression, metadata extraction, and various image effects.
  * @example
  * ```typescript
- * import { ImageUtils } from 'js-utils';
+ * import { ImageUtils } from 'houser-js-utils';
  *
  * // Convert base64 to file
  * const file = await ImageUtils.convertBase64ToFile(base64String, 'image.jpg');

@@ -5,7 +5,7 @@
  * claim extraction, and token lifecycle management.
  * @example
  * ```typescript
- * import { JwtUtils } from 'js-utils';
+ * import { JwtUtils } from 'houser-js-utils';
  *
  * // Decode a JWT token
  * const payload = JwtUtils.decodeToken(token);

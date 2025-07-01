@@ -3,7 +3,7 @@
  * @description A collection of utility functions for array manipulation and operations.
  * @example
  * ```typescript
- * import { ArrayUtils } from 'js-utils';
+ * import { ArrayUtils } from 'houser-js-utils';
  *
  * // Get unique values from an array
  * const unique = ArrayUtils.deduplicate([1, 2, 2, 3]);
