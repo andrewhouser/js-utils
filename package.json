@@ -1,6 +1,6 @@
 {
   "name": "houser-js-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A comprehensive collection of TypeScript utility functions for common development tasks including array manipulation, string processing, date handling, random number generation, validation, and much more.",
   "type": "module",
   "main": "./dist/index.js",
@@ -23,7 +23,7 @@
     "type": "git",
     "url": "git+https://github.com/andrewhouser/js-utils.git"
   },
-  "homepage": "https://github.com/andrewhouser/js-utils#readme",
+  "homepage": "https://andrewhouser.github.io/js-utils/",
   "bugs": {
     "url": "https://github.com/andrewhouser/js-utils/issues"
   },
@@ -35,7 +35,7 @@
     "typecheck": "tsc --noEmit",
     "lint": "eslint src/**/*.ts",
     "lint:fix": "eslint src/**/*.ts --fix",
-    "prepublishOnly": "npm run typecheck && npm run test && npm run build",
+    "prepublishOnly": "npm run typecheck && npm run test && npm run build && npm run docs",
     "docs": "typedoc --skipErrorChecking",
     "docs:serve": "typedoc --skipErrorChecking --watch",
     "docs:dev": "typedoc --skipErrorChecking --watch --preserveWatchOutput"
