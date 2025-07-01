@@ -48,7 +48,7 @@
     "js-utils",
     "jsutils",
     "random",
-    "seeded-random", 
+    "seeded-random",
     "string-utils",
     "typescript",
     "utilities",
@@ -63,7 +63,7 @@
   ],
   "author": {
     "name": "Andrew Houser",
-    "email": "your.email@example.com"
+    "email": "houserdesign@gmail.com"
   },
   "license": "MIT",
   "engines": {
