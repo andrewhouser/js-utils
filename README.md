@@ -94,4 +94,11 @@ MIT
 
 ## API Documentation
 
-Full API documentation is available at [docs/index.html](docs/index.html) or [your hosted docs URL].
+📚 **Full API documentation is available at [https://andrewhouser.github.io/js-utils/](https://andrewhouser.github.io/js-utils/)**
+
+The documentation includes:
+
+- Interactive search functionality
+- Detailed function signatures and examples
+- Type information and interfaces
+- Navigation between modules
